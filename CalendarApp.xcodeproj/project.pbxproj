@@ -26,6 +26,7 @@
 		5C397CA4271B5A8D00A258EA /* DayDisplayCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5C397CA2271B5A8D00A258EA /* DayDisplayCollectionViewCell.xib */; };
 		5C397CA7271B5AB000A258EA /* EmptyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C397CA5271B5AB000A258EA /* EmptyCollectionViewCell.swift */; };
 		5C397CA8271B5AB000A258EA /* EmptyCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5C397CA6271B5AB000A258EA /* EmptyCollectionViewCell.xib */; };
+		5C7775562755632E0010EEDF /* AppLogs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7775552755632E0010EEDF /* AppLogs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		5C397CA2271B5A8D00A258EA /* DayDisplayCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DayDisplayCollectionViewCell.xib; sourceTree = "<group>"; };
 		5C397CA5271B5AB000A258EA /* EmptyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyCollectionViewCell.swift; sourceTree = "<group>"; };
 		5C397CA6271B5AB000A258EA /* EmptyCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EmptyCollectionViewCell.xib; sourceTree = "<group>"; };
+		5C7775552755632E0010EEDF /* AppLogs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppLogs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				5C2F9A112711A61E00FD843F /* Date.swift */,
 				5C3003D326DF89C600CD5FB9 /* HorizontalFloatingHeaderLayout.swift */,
 				5C397C99271B4F7100A258EA /* Utils.swift */,
+				5C7775552755632E0010EEDF /* AppLogs.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -368,6 +371,7 @@
 				5C3003A126DF871300CD5FB9 /* SceneDelegate.swift in Sources */,
 				5C3003D126DF887700CD5FB9 /* CalendarTableViewCell.swift in Sources */,
 				5C397CA7271B5AB000A258EA /* EmptyCollectionViewCell.swift in Sources */,
+				5C7775562755632E0010EEDF /* AppLogs.swift in Sources */,
 				5C3003D426DF89C600CD5FB9 /* HorizontalFloatingHeaderLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
